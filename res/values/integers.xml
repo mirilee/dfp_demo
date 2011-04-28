@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="ad_icons">
+        <item>0x7f020001</item>
+        <item>0x7f020001</item>
+        <item>0x7f020001</item>
+        <item>0x7f020002</item>
+        <item>0x7f020000</item>
+        <item>0x7f020001</item>
+    </integer-array>
+    <integer-array name="adunit_width">
+        <item>320</item>
+        <item>320</item>
+        <item>300</item>
+        <item>300</item>
+        <item>320</item>
+        <item>320</item>
+    </integer-array>
+    <integer-array name="adunit_height">
+        <item>49</item>
+        <item>460</item>
+        <item>50</item>
+        <item>250</item>
+        <item>50</item>
+        <item>460</item>
+    </integer-array>
+</resources>

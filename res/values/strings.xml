@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleList!</string>
+    <string name="app_name">DFP Demo Ads</string>
+    <string-array name="ad_names">
+        <item>Simple Banner</item>
+        <item>Graphical Interstitial</item>
+        <item>3rd Party Rich Media</item>
+        <item>AdSense Backfill</item>
+        <item>AdMob Backfill</item>
+        <item>Video Interstitial</item>
+    </string-array>
+    <string-array name="ad_sizes">
+        <item>320x50</item>
+        <item>320x480</item>
+        <item>300x50</item>
+        <item>300x250</item>
+        <item>320x50</item>
+        <item>320x480</item>
+    </string-array>
+    <string-array name="adunit_id">
+    	<item>/5805383/ca-pub-1956270439215402/miri_demo_simple_banner2</item>
+    	<item>/5805383/ca-pub-1956270439215402/miri_demo_graphical2</item>
+    	<item>/5805383/ca-pub-1956270439215402/miri_demo_3rdparty2</item>
+    	<item>/5805383/ca-pub-1956270439215402/miri_demo_adsense2</item>
+    	<item>/5805383/ca-pub-1956270439215402/miri_demo_admob2</item>
+    	<item>/5805383/ca-pub-1956270439215402/miri_demo_video2</item>
+    </string-array>
+</resources>
+
